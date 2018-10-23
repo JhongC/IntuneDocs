@@ -37,7 +37,7 @@ By using the **Retire** or **Wipe** actions, you can remove devices from Intune 
 
 ## Wipe
 
-The **Wipe** action restores a device to its factory default settings. The user data is kept if you choose the **Retain enrollment state and user account** checkbox. Otherwise, the drive is securely erased.
+The **Wipe** action restores a device to its factory default settings. The user data is kept if you choose the **Retain enrollment state and user account** checkbox. Otherwise, the drive is securely erased. This feature only applies to company-owned devices.
 
 |Wipe action|**Retain enrollment state and user account**|Removed from Intune management|Description|
 |:-------------:|:------------:|:------------:|------------|
