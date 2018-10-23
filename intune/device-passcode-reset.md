@@ -74,7 +74,7 @@ For Android Enterprise devices running version 8.x or later and enrolled with a 
 
 ## Remove iOS passcodes
 
-Instead of being reset, passcodes are removed from iOS devices. If there's a passcode compliance policy set, the device will prompt the user to set a new passcode in Settings.
+Instead of being reset, passcodes are removed from iOS devices. If there's a passcode compliance policy set, the device will prompt the user to set a new passcode in Settings. This feature is only available for company owned devices. Passcodes cannot be removed for personal devices.
 
 ## Next steps
 
